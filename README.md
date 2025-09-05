@@ -1,5 +1,3 @@
-# quant-analyst-portfolio
-
 # Quant Analyst Portfolio
 
 A curated collection of quantitative finance notebooks and Python modules:
